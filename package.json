@@ -1,22 +1,35 @@
 {
   "name": "partyapp",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "expo-router/entry",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "serve-assets": "npx serve -s ./assets",
+    "serve-json": "json-server db/db.json --port 3001",
+    "start-server": "run-p serve-assets serve-json"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "expo": "~52.0.15",
+    "expo-constants": "~17.0.3",
+    "expo-linking": "~7.0.3",
+    "expo-router": "~4.0.11",
     "expo-status-bar": "~2.0.0",
+    "json-server": "^1.0.0-beta.3",
     "react": "18.3.1",
-    "react-native": "0.76.3"
+    "react-native": "0.76.3",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-screens": "~4.1.0",
+    "zustand": "^5.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@types/react": "~18.3.12",
+    "npm-run-all": "^4.1.5",
+    "react-native-dotenv": "^3.4.11",
     "typescript": "^5.3.3"
   },
   "private": true

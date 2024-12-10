@@ -1,0 +1,432 @@
+{
+    "cards": [
+          {
+            "id": 1,
+            "name": "Ace of Hearts",
+            "image": "http://169.254.5.254:3000/cards/ace_of_hearts.png",
+            "rule": "Waterfall – Everyone should keep drinking until the person who picked the card stops."
+          },
+          {
+            "id": 2,
+            "name": "2 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/2_of_hearts.png",
+            "rule": "Choose – You can choose someone to drink."
+          },
+          {
+            "id": 3,
+            "name": "3of Hearts",
+            "image": "http://169.254.5.254:3000/cards/3_of_hearts.png",
+            "rule": "Me – You must drink."
+          },
+          {
+            "id": 4,
+            "name": "4 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/4_of_hearts.png",
+            "rule": "Wh0re – All girls must drink."
+          },
+          {
+            "id": 5,
+            "name": "5 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/5_of_hearts.png",
+            "rule": "Thumb Master – When you put your thumb on the table everyone must follow and whomever is last must drink."
+          },
+          {
+            "id": 6,
+            "name": "6 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/6_of_hearts.png",
+            "rule": "Dicks – All guys drink."
+          },
+          {
+            "id": 7,
+            "name": "7 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/7_of_hearts.png",
+            "rule": "Heaven – Point your finger in the sky, whoever is last must drink."
+          },
+          {
+            "id": 8,
+            "name": "8 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/8_of_hearts.png",
+            "rule": "Mate – Choose someone to drink with you. He/she should always drink with you."
+          },
+          {
+            "id": 9,
+            "name": "9 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/9_of_hearts.png",
+            "rule": "Rhyme – Pick a word, and the person next to you must rhyme with it until someone messes up. The one who messes up drinks."
+          },
+          {
+            "id": 10,
+            "name": "10 of Hearts",
+            "image": "http://169.254.5.254:3000/cards/10_of_hearts.png",
+            "rule": "Categories – Pick a category and everyone must name something in that category. Whoever messes up drinks."
+          },
+          {
+            "id": 11,
+            "name": "Jack of Hearts",
+            "image": "http://169.254.5.254:3000/cards/jack_of_hearts.png",
+            "rule": "Make a Rule – You can make up any rule that everyone has to follow. Disobey the rule, and you must drink."
+          },
+          {
+            "id": 12,
+            "name": "Queen of Hearts",
+            "image": "http://169.254.5.254:3000/cards/queen_of_hearts.png",
+            "rule": "Questions – Keep asking questions to each other. Whoever doesn’t say a question drinks."
+          },
+          {
+            "id": 13,
+            "name": "King of Hearts",
+            "image": "http://169.254.5.254:3000/cards/king_of_hearts.png",
+            "rule": "Pour! – You must pour a little of your drink into the middle cup. The one who picks the last king drinks the whole cup."
+          },
+          {
+            "id": 14,
+            "name": "Ace of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/ace_of_diamonds.png",
+            "rule": "Waterfall – Everyone should keep drinking until the person who picked the card stops."
+          },
+          {
+            "id": 15,
+            "name": "2 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/2_of_diamonds.png",
+            "rule": "Choose – You can choose someone to drink."
+          },
+          {
+            "id": 16,
+            "name": "3of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/3_of_diamonds.png",
+            "rule": "Me – You must drink."
+          },
+          {
+            "id": 17,
+            "name": "4 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/4_of_diamonds.png",
+            "rule": "Wh0re – All girls must drink."
+          },
+          {
+            "id": 18,
+            "name": "5 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/5_of_diamonds.png",
+            "rule": "Thumb Master – When you put your thumb on the table everyone must follow and whomever is last must drink."
+          },
+          {
+            "id": 19,
+            "name": "6 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/6_of_diamonds.png",
+            "rule": "Dicks – All guys drink."
+          },
+          {
+            "id": 20,
+            "name": "7 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/7_of_diamonds.png",
+            "rule": "Heaven – Point your finger in the sky, whoever is last must drink."
+          },
+          {
+            "id": 21,
+            "name": "8 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/8_of_diamonds.png",
+            "rule": "Mate – Choose someone to drink with you. He/she should always drink with you."
+          },
+          {
+            "id": 22,
+            "name": "9 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/9_of_diamonds.png",
+            "rule": "Rhyme – Pick a word, and the person next to you must rhyme with it until someone messes up. The one who messes up drinks."
+          },
+          {
+            "id": 23,
+            "name": "10 of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/10_of_diamonds.png",
+            "rule": "Categories – Pick a category and everyone must name something in that category. Whoever messes up drinks."
+          },
+          {
+            "id": 24,
+            "name": "Jack of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/jack_of_diamonds.png",
+            "rule": "Make a Rule – You can make up any rule that everyone has to follow. Disobey the rule, and you must drink."
+          },
+          {
+            "id": 25,
+            "name": "Queen of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/queen_of_diamonds.png",
+            "rule": "Questions – Keep asking questions to each other. Whoever doesn’t say a question drinks."
+          },
+          {
+            "id": 26,
+            "name": "King of Diamonds",
+            "image": "http://169.254.5.254:3000/cards/king_of_diamonds.png",
+            "rule": "Pour! – You must pour a little of your drink into the middle cup. The one who picks the last king drinks the whole cup."
+          },
+          {
+            "id": 27,
+            "name": "Ace of Clubs",
+            "image": "http://169.254.5.254:3000/cards/ace_of_clubs.png",
+            "rule": "Waterfall – Everyone should keep drinking until the person who picked the card stops."
+          },
+          {
+            "id": 28,
+            "name": "2 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/2_of_clubs.png",
+            "rule": "Choose – You can choose someone to drink."
+          },
+          {
+            "id": 29,
+            "name": "3of Clubs",
+            "image": "http://169.254.5.254:3000/cards/3_of_clubs.png",
+            "rule": "Me – You must drink."
+          },
+          {
+            "id": 30,
+            "name": "4 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/4_of_clubs.png",
+            "rule": "Wh0re – All girls must drink."
+          },
+          {
+            "id": 31,
+            "name": "5 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/5_of_clubs.png",
+            "rule": "Thumb Master – When you put your thumb on the table everyone must follow and whomever is last must drink."
+          },
+          {
+            "id": 32,
+            "name": "6 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/6_of_clubs.png",
+            "rule": "Dicks – All guys drink."
+          },
+          {
+            "id": 33,
+            "name": "7 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/7_of_clubs.png",
+            "rule": "Heaven – Point your finger in the sky, whoever is last must drink."
+          },
+          {
+            "id": 34,
+            "name": "8 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/8_of_clubs.png",
+            "rule": "Mate – Choose someone to drink with you. He/she should always drink with you."
+          },
+          {
+            "id": 35,
+            "name": "9 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/9_of_clubs.png",
+            "rule": "Rhyme – Pick a word, and the person next to you must rhyme with it until someone messes up. The one who messes up drinks."
+          },
+          {
+            "id": 36,
+            "name": "10 of Clubs",
+            "image": "http://169.254.5.254:3000/cards/10_of_clubs.png",
+            "rule": "Categories – Pick a category and everyone must name something in that category. Whoever messes up drinks."
+          },
+          {
+            "id": 37,
+            "name": "Jack of Clubs",
+            "image": "http://169.254.5.254:3000/cards/jack_of_clubs.png",
+            "rule": "Make a Rule – You can make up any rule that everyone has to follow. Disobey the rule, and you must drink."
+          },
+          {
+            "id": 38,
+            "name": "Queen of Clubs",
+            "image": "http://169.254.5.254:3000/cards/queen_of_clubs.png",
+            "rule": "Questions – Keep asking questions to each other. Whoever doesn’t say a question drinks."
+          },
+          {
+            "id": 39,
+            "name": "King of Clubs",
+            "image": "http://169.254.5.254:3000/cards/king_of_clubs.png",
+            "rule": "Pour! – You must pour a little of your drink into the middle cup. The one who picks the last king drinks the whole cup."
+          },
+          {
+            "id": 40,
+            "name": "Ace of Spades",
+            "image": "http://169.254.5.254:3000/cards/ace_of_spades.png",
+            "rule": "Waterfall – Everyone should keep drinking until the person who picked the card stops."
+          },
+          {
+            "id": 41,
+            "name": "2 of Spades",
+            "image": "http://169.254.5.254:3000/cards/2_of_spades.png",
+            "rule": "Choose – You can choose someone to drink."
+          },
+          {
+            "id": 42,
+            "name": "3of Spades",
+            "image": "http://169.254.5.254:3000/cards/3_of_spades.png",
+            "rule": "Me – You must drink."
+          },
+          {
+            "id": 43,
+            "name": "4 of Spades",
+            "image": "http://169.254.5.254:3000/cards/4_of_spades.png",
+            "rule": "Wh0re – All girls must drink."
+          },
+          {
+            "id": 44,
+            "name": "5 of Spades",
+            "image": "http://169.254.5.254:3000/cards/5_of_spades.png",
+            "rule": "Thumb Master – When you put your thumb on the table everyone must follow and whomever is last must drink."
+          },
+          {
+            "id": 45,
+            "name": "6 of Spades",
+            "image": "http://169.254.5.254:3000/cards/6_of_spades.png",
+            "rule": "Dicks – All guys drink."
+          },
+          {
+            "id": 46,
+            "name": "7 of Spades",
+            "image": "http://169.254.5.254:3000/cards/7_of_spades.png",
+            "rule": "Heaven – Point your finger in the sky, whoever is last must drink."
+          },
+          {
+            "id": 47,
+            "name": "8 of Spades",
+            "image": "http://169.254.5.254:3000/cards/8_of_spades.png",
+            "rule": "Mate – Choose someone to drink with you. He/she should always drink with you."
+          },
+          {
+            "id": 48,
+            "name": "9 of Spades",
+            "image": "http://169.254.5.254:3000/cards/9_of_spades.png",
+            "rule": "Rhyme – Pick a word, and the person next to you must rhyme with it until someone messes up. The one who messes up drinks."
+          },
+          {
+            "id": 49,
+            "name": "10 of Spades",
+            "image": "http://169.254.5.254:3000/cards/10_of_spades.png",
+            "rule": "Categories – Pick a category and everyone must name something in that category. Whoever messes up drinks."
+          },
+          {
+            "id": 50,
+            "name": "Jack of Spades",
+            "image": "http://169.254.5.254:3000/cards/jack_of_spades.png",
+            "rule": "Make a Rule – You can make up any rule that everyone has to follow. Disobey the rule, and you must drink."
+          },
+          {
+            "id": 51,
+            "name": "Queen of Spades",
+            "image": "http://169.254.5.254:3000/cards/queen_of_spades.png",
+            "rule": "Questions – Keep asking questions to each other. Whoever doesn’t say a question drinks."
+          },
+          {
+            "id": 52,
+            "name": "King of Spades",
+            "image": "http://169.254.5.254:3000/cards/king_of_spades.png",
+            "rule": "Pour! – You must pour a little of your drink into the middle cup. The one who picks the last king drinks the whole cup."
+          },
+          {
+            "id": 53,
+            "name": "Red Joker",
+            "image": "http://169.254.5.254:3000/cards/red_joker.png",
+            "rule": "Wildcard – Make up any rule for everyone to follow."
+          },
+          {
+            "id": 54,
+            "name": "Black Joker",
+            "image": "http://169.254.5.254:3000/cards/black_joker.png",
+            "rule": "Wildcard – Make up any rule for everyone to follow."
+          }
+        ],
+ 
+ "nhiePrompts":
+ [
+     { "id": 1, "prompt": "Skipped school" },
+     { "id": 2, "prompt": "Lied about my age" },
+     { "id": 3, "prompt": "Traveled to another country" },
+     { "id": 4, "prompt": "Stayed up all night" },
+     { "id": 5, "prompt": "Forgotten someone's birthday" },
+     { "id": 6, "prompt": "Cheated on a test" },
+     { "id": 7, "prompt": "Eaten an entire pizza by myself" },
+     { "id": 8, "prompt": "Gotten lost in a new city" },
+     { "id": 9, "prompt": "Fallen asleep in public" },
+     { "id": 10, "prompt": "Broken a bone" },
+     { "id": 11, "prompt": "Failed a class" },
+     { "id": 12, "prompt": "Been in a car accident" },
+     { "id": 13, "prompt": "Sent a text to the wrong person" },
+     { "id": 14, "prompt": "Used someone else's Netflix account" },
+     { "id": 15, "prompt": "Accidentally liked an old photo on social media" },
+     { "id": 16, "prompt": "Been on TV" },
+     { "id": 17, "prompt": "Dyed my hair a crazy color" },
+     { "id": 18, "prompt": "Ridden a motorcycle" },
+     { "id": 19, "prompt": "Gotten a tattoo" },
+     { "id": 20, "prompt": "Sung karaoke" },
+     { "id": 21, "prompt": "Cried during a movie" },
+     { "id": 22, "prompt": "Fainted in public" },
+     { "id": 23, "prompt": "Been skydiving" },
+     { "id": 24, "prompt": "Eaten something off the floor" },
+     { "id": 25, "prompt": "Had a crush on a teacher" },
+     { "id": 26, "prompt": "Walked into the wrong bathroom" },
+     { "id": 27, "prompt": "Been locked out of my house" },
+     { "id": 28, "prompt": "Laughed so hard I cried" },
+     { "id": 29, "prompt": "Accidentally swore in front of a child" },
+     { "id": 30, "prompt": "Snuck out of the house" },
+     { "id": 31, "prompt": "Forgotten where I parked my car" },
+     { "id": 32, "prompt": "Used a fake ID" },
+     { "id": 33, "prompt": "Gotten a speeding ticket" },
+     { "id": 34, "prompt": "Eaten raw cookie dough" },
+     { "id": 35, "prompt": "Tried a weird food combination" },
+     { "id": 36, "prompt": "Met a celebrity" },
+     { "id": 37, "prompt": "Fallen in love at first sight" },
+     { "id": 38, "prompt": "Stolen something" },
+     { "id": 39, "prompt": "Peed in a pool" },
+     { "id": 40, "prompt": "Gone scuba diving" },
+     { "id": 41, "prompt": "Stayed in my pajamas all day" },
+     { "id": 42, "prompt": "Watched an entire series in one day" },
+     { "id": 43, "prompt": "Cooked something and completely burned it" },
+     { "id": 44, "prompt": "Been on a blind date" },
+     { "id": 45, "prompt": "Made a prank call" },
+     { "id": 46, "prompt": "Fallen asleep while texting" },
+     { "id": 47, "prompt": "Bought something expensive and regretted it" },
+     { "id": 48, "prompt": "Climbed a mountain" },
+     { "id": 49, "prompt": "Danced in the rain" },
+     { "id": 50, "prompt": "Been to a concert" },
+     { "id": 51, "prompt": "Broken up with someone over text" },
+     { "id": 52, "prompt": "Had food poisoning" },
+     { "id": 53, "prompt": "Cried in public" },
+     { "id": 54, "prompt": "Tried to take a selfie and failed" },
+     { "id": 55, "prompt": "Said 'I love you' without meaning it" },
+     { "id": 56, "prompt": "Lied to get out of work" },
+     { "id": 57, "prompt": "Eaten a bug" },
+     { "id": 58, "prompt": "Gotten a piercing" },
+     { "id": 59, "prompt": "Done a cartwheel" },
+     { "id": 60, "prompt": "Tried online dating" },
+     { "id": 61, "prompt": "Had a paranormal experience" },
+     { "id": 62, "prompt": "Gotten a spray tan" },
+     { "id": 63, "prompt": "Lost my wallet or purse" },
+     { "id": 64, "prompt": "Tried to cut my own hair" },
+     { "id": 65, "prompt": "Gotten stitches" },
+     { "id": 66, "prompt": "Been in a fight" },
+     { "id": 67, "prompt": "Been on a roller coaster" },
+     { "id": 68, "prompt": "Forgotten someone's name right after meeting them" },
+     { "id": 69, "prompt": "Been to a wedding" },
+     { "id": 70, "prompt": "Jumped into a pool with clothes on" },
+     { "id": 71, "prompt": "Owned a pet" },
+     { "id": 72, "prompt": "Lost a bet" },
+     { "id": 73, "prompt": "Gotten seasick" },
+     { "id": 74, "prompt": "Watched a horror movie alone" },
+     { "id": 75, "prompt": "Built something with my hands" },
+     { "id": 76, "prompt": "Visited a haunted house" },
+     { "id": 77, "prompt": "Played an instrument in public" },
+     { "id": 78, "prompt": "Written a love letter" },
+     { "id": 79, "prompt": "Lied about being sick to skip school or work" },
+     { "id": 80, "prompt": "Locked my keys in the car" },
+     { "id": 81, "prompt": "Had a surprise party thrown for me" },
+     { "id": 82, "prompt": "Walked into a glass door" },
+     { "id": 83, "prompt": "Eaten something I didn't like just to be polite" },
+     { "id": 84, "prompt": "Slept under the stars" },
+     { "id": 85, "prompt": "Done a backflip" },
+     { "id": 86, "prompt": "Won a contest" },
+     { "id": 87, "prompt": "Had a terrible haircut" },
+     { "id": 88, "prompt": "Gone camping" },
+     { "id": 89, "prompt": "Made a New Year's resolution and kept it" },
+     { "id": 90, "prompt": "Forgotten an important anniversary" },
+     { "id": 91, "prompt": "Gotten sunburned really badly" },
+     { "id": 92, "prompt": "Been snowboarding or skiing" },
+     { "id": 93, "prompt": "Been scared of clowns" },
+     { "id": 94, "prompt": "Eaten a whole box of candy in one sitting" },
+     { "id": 95, "prompt": "Traveled alone" },
+     { "id": 96, "prompt": "Tried yoga" },
+     { "id": 97, "prompt": "Started a rumor" },
+     { "id": 98, "prompt": "Owned a lucky charm" },
+     { "id": 99, "prompt": "Ridden a horse" },
+     { "id": 100, "prompt": "Learned a second language" }
+] 
+ }
