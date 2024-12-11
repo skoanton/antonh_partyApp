@@ -54,7 +54,7 @@ export default function TournamentSettings({}: TournamentSettingsProps) {
 
   return (
     <>
-      <View>
+      <View style={style.container}>
         <Text style={style.text}>Turneringsinställningar</Text>
         <Button
           title="Lägg till spelare"
@@ -70,16 +70,6 @@ export default function TournamentSettings({}: TournamentSettingsProps) {
             style={inputFields.inputField}
           />
         </View>
-        <View style={style.inputForm}>
-          <Text style={style.label}>Antal möten per lag: </Text>
-          <TextInput
-            value={totalGames.toString()}
-            onChangeText={(e) => setTotalGames(Number(e))}
-            keyboardType="numeric"
-            style={inputFields.inputField}
-          />
-        </View>
-
         <Button title={"Skapa tunering"} handlePress={handleSubmit} />
       </View>
       <PlayerNamesModal
@@ -92,6 +82,11 @@ export default function TournamentSettings({}: TournamentSettingsProps) {
 }
 
 const style = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: "center",
+    gap: 10,
+  },
   inputForm: {
     flexDirection: "row",
     justifyContent: "space-between",

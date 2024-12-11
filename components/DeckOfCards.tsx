@@ -37,7 +37,6 @@ export default function DeckOfCards({ normal }: DeckOfCardsProps) {
   };
 
   const handleChangeCard = () => {
-    console.log("Hej");
     const newCard = getRandomCard();
     if (newCard) {
       setCard(newCard);

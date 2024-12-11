@@ -9,9 +9,11 @@ export default function MainLayout({}: MainLayout) {
   return (
     <>
       <SafeAreaView style={{ flex: 1 }}>
-        <StatusBar style="auto" />
         <Stack>
-          <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+          <Stack.Screen
+            name="(tabs)"
+            options={{ headerShown: false, headerTitle: "", title: "" }}
+          />
           <Stack.Screen
             name="never-have-i-ever/index"
             options={{

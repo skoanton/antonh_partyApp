@@ -15,11 +15,15 @@ export const buttons = StyleSheet.create({
     backgroundColor: "black",
     padding: 10,
     borderRadius: 5,
+    width: 200,
+    alignSelf: "center",
   },
   secondary: {
     backgroundColor: "grey",
     padding: 10,
     borderRadius: 5,
+    width: 200,
+    alignSelf: "center",
   },
   primaryText: {
     color: "white",
